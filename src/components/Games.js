@@ -23,7 +23,7 @@ export default function Games() {
           <br></br>
           <iframe
             frameborder="0"
-            src="https://itch.io/embed-upload/7885401?color=333333"
+            src="https://itch.io/embed-upload/7885554?color=333333"
             allowfullscreen=""
             height="700"
           >

@@ -16,14 +16,14 @@ export default function Open() {
               href="https://github.com/MayaPik"
               className="m-4 inline-flex text-purple-200 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              My Github
+              Github
             </a>
             <a
-              href="https://drive.google.com/uc?export=download&id=1X8piBa0aPaMx1imnv4qc8JreiIFanuNv"
+              href="https://drive.google.com/uc?export=download&id=/1sBptbzHBblyGVQ1n7eBdAWN58KatU3mb"
               download
               className="m-4 inline-flex text-purple-200 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              My Resume
+              Resume
             </a>
             <a
               href="https://www.linkedin.com/in/maya-pik/"
